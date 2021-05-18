@@ -1,4 +1,4 @@
 
-"""Fraud Gym Enviornments."""
+"""spam Enviornments."""
 
 from gym_spam.envs.spam_env import spamEnv
